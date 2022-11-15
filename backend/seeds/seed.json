@@ -1,0 +1,75 @@
+ [
+  {
+    "name": "Coca-Cola - 12pk/12 fl oz Cans",
+    "price": 6.49,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_f2a6f540-4792-43f5-85a5-33b77626e7db?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "coke"
+  },
+  {
+    "name": "Diet - 12pk/12 fl oz Cans",
+    "price": 6.49,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_16598c5b-812c-4e00-9e03-83f7aa9396bc?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "coke"
+  },
+  {
+    "name": "Coca-Cola Zero Sugar - 12pk/12 fl oz Cans",
+    "price": 6.49,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_bd39a62e-8496-43d0-8521-8de854d20ede?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "coke"
+  },
+  {
+    "name": "Diet Coke Caffeine Free - 12pk/12 fl oz Cans",
+    "price": 6.49,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_3d4fc6be-2280-4695-be60-241b6ff786fb?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "coke"
+  },
+  {
+    "name": "Dove Men+Care Clean Comfort Antiperspirant & Deodorant 2.7oz",
+    "price": 11.99,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_cc9e2fe1-47fb-4239-825b-6132db1a6c45?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "deodorant"
+  },
+  {
+    "name": "Dove Men+Care Extra Fresh 48-Hour Antiperspirant & Deodorant Stick",
+    "price": 6.59,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_9a5e37e9-03dd-4bb1-af69-4bd64ec58155?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "deodorant"
+  },
+  {
+    "name": "Degree Men Cool Rush Antiperspirant & Deodorant Stick",
+    "price": 3.99,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_243be1f9-b5a2-4e65-89eb-7a218420c4db?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "deodorant"
+  },
+  {
+    "name": "Gillette Cool Wave Clear Gel Antiperspirant & Deodorant",
+    "price": 6.79,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_f9c96102-7545-4bf4-9212-56f34864ebd4?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "deodorant"
+  },
+
+  {
+    "name": "Paper Mate InkJoy 22pk Gel Pens 0.7mm Medium Tip Multicolored",
+    "price": 25.49,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_a5690c79-de1b-41ec-bea7-12346cf6d31d?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "pens"
+  },
+  {
+    "name": "BIC Xtra Bold Ballpoint Pens, 15ct - Multicolor",
+    "price": 3.69,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_48b2127f-e538-4fd7-a6b8-e9315c056804?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "pens"
+  },
+  {
+    "name": "BIC Xtra Life Ballpoint Pens, Medium Tip, 10ct - Black",
+    "price": 1.59,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_84148b12-7ccd-451e-8bdd-247e4f803a30?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "pens"
+  },
+  {
+    "name": "Paper Mate Write Bros. 20pk Ballpoint Pens 1.00mm Medium Tip Black",
+    "price": 1.99,
+    "img": "https://target.scene7.com/is/image/Target/GUEST_2414c24d-5a8e-46bf-91e5-8f1ee6673b2f?wid=325&hei=325&qlt=80&fmt=pjpeg",
+    "category": "pens"
+  }
+]
